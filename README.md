@@ -1,2 +1,2 @@
 # http-app
-create http apps quick and easily
+Create apps quick and easy

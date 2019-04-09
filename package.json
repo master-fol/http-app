@@ -1,0 +1,15 @@
+{
+  "name": "http-app",
+  "version": "1.0.0",
+  "description": "Build apps with http",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test/main.js"
+  },
+  "gitRepository": "https://github.com/master-fol/http-app",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Pranav",
+  "license": "ISC"
+}
